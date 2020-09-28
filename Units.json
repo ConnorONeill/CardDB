@@ -1,0 +1,290 @@
+{
+  "1": {
+    "Name": "Druid Summoner",
+    "Type": "Ranged",
+    "Class": "Druid Caster",
+    "Cost": 2,
+    "Power": 1,
+    "Health": 4,
+    "Ability": "SLOW Once per turn; you can deploy an 'Animal' unit of cost 1 or less from your hand or of cost 2 or less if an 'Animal' is in support"
+  },
+  "2": {
+    "Name": "Wolf Druid",
+    "Type": "Ranged",
+    "Class": "Druid Archer",
+    "Cost": 2,
+    "Power": 3,
+    "Health": 4,
+    "Ability": "1PT, before attack; this unit can turn into a melee 'Dog Animal' unit and gains 2 total health or back into its original form losing 2 bonus health"
+  },
+  "3": {
+    "Name": "Druid King",
+    "Type": "Ranged",
+    "Class": "Legendary Druid Archer",
+    "Cost": 3,
+    "Power": 2,
+    "Health": 6,
+    "Ability": "Gains the power and ability of a supporting 'Animal'"
+  },
+  "4": {
+    "Name": "Recon Druid",
+    "Type": "Ranged",
+    "Class": "Druid Archer",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 2,
+    "Ability": "Grants HASTE  to an ‘Animal’ in support\nGains HASTE if an ‘Animal’ is in support"
+  },
+  "5": {
+    "Name": "Hunting Hawk",
+    "Type": "Melee",
+    "Class": "Bird Animal",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "HASTE"
+  },
+  "6": {
+    "Name": "Sabre Tooth",
+    "Type": "Melee",
+    "Class": "Cat Animal",
+    "Cost": 2,
+    "Power": 4,
+    "Health": 7,
+    "Ability": "\"Here kitty, kitty, kitty...\""
+  },
+  "7": {
+    "Name": "Hunting Wolf",
+    "Type": "Melee",
+    "Class": "Basic Dog Animal",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "Gains 1 power for each other allied 'Dog'"
+  },
+  "8": {
+    "Name": "Cattle Dog",
+    "Type": "Melee",
+    "Class": "Dog Animal",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "GOLD 1 Target enemy unit; Move target unit into a free zone in the same column as this card"
+  },
+  "9": {
+    "Name": "Pistol Shrimp",
+    "Type": "Ranged",
+    "Class": "Crustacean Animal",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 3,
+    "Ability": "This unit's attacks cause the defending units next attack's damage to be reduced by 2"
+  },
+  "10": {
+    "Name": "Sea Captain",
+    "Type": "Ranged",
+    "Class": "Pirate Leader",
+    "Cost": 2,
+    "Power": 0,
+    "Health": 5,
+    "Ability": "Grants all 'Pirate' units you control RUSH\nThis unit gains power equal to your current gold"
+  },
+  "11": {
+    "Name": "Navigator",
+    "Type": "Ranged",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 3,
+    "Ability": "While in support of a 'Ship' gains SCOUTING \nSupporting unit gains SCOUTING"
+  },
+  "12": {
+    "Name": "Cannoneer",
+    "Type": "Ranged",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Power": 1,
+    "Health": 4,
+    "Ability": "Gain 3 power while there is a ship in support"
+  },
+  "13": {
+    "Name": "Hardened Chef",
+    "Type": "Melee",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "If there is a supporting 'Pirate' this unit gains 2 Health, If you control a 'Ship' instead all 'Pirate's gain 2 Health"
+  },
+  "14": {
+    "Name": "Crazy Samuel",
+    "Type": "Melee",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Power": 1,
+    "Health": 4,
+    "Ability": "This unit gains abilities based on the sum of the 'Pirate's and 'Ship's you control; 2 or more: Gain 1 power \n3 or more: Gain HASTE \n4 or more: Gain an additional attack"
+  },
+  "15": {
+    "Name": "Black Eye",
+    "Type": "Melee",
+    "Class": "Legendary Undead Pirate Leader",
+    "Cost": 3,
+    "Power": 3,
+    "Health": 6,
+    "Ability": "PIERCING \nOn Deployment; deal 3 damage to up to X enemies where X is the sum of ships you control or are in your grave"
+  },
+  "16": {
+    "Name": "Pirate Recruiter",
+    "Type": "Ranged",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Power": 1,
+    "Health": 3,
+    "Ability": "On deployment; INVESTIGATE Unit 2, you may add a 'Pirate' from the revealed cards and if you control a ship reduce its cost by 1"
+  },
+  "17": {
+    "Name": "First Mate",
+    "Type": "Melee",
+    "Class": "Pirate Leader",
+    "Cost": 2,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "This unit's cost is reduced by 1 if you control a 'Pirate Leader' All 'Pirate' units gain 1 power if you control a ship"
+  },
+  "18": {
+    "Name": "Pirate Apprentice",
+    "Type": "Melee",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Power": 1,
+    "Health": 4,
+    "Ability": "Cost 0 while you control a 'Ship'\nWhen another pirate attacks; Gain 1 power until end"
+  },
+  "19": {
+    "Name": "Ghastly terror",
+    "Type": "Melee",
+    "Class": "Legendary Undead King",
+    "Cost": 3,
+    "Power": 1,
+    "Health": 4,
+    "Ability": "On deploy; This unit gains Power and health equal to the number of units in both graveyards"
+  },
+  "20": {
+    "Name": "Rugged skeleton",
+    "Type": "Melee",
+    "Class": "Undead",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 1,
+    "Ability": "When a unit you control (except 'Rugged Skeleton') is sent to grave; You can summon this card to the zone of that unit"
+  },
+  "21": {
+    "Name": "Bulging Spawn",
+    "Type": "Melee",
+    "Class": "Undead",
+    "Cost": 2,
+    "Power": 2,
+    "Health": 6,
+    "Ability": "When this unit is sent from field to grave; place up to 2 1G 2/1 Melee 'Undead' units in free zones."
+  },
+  "22": {
+    "Name": "Undead Queen",
+    "Type": "Ranged",
+    "Class": "Undead Archer",
+    "Cost": 3,
+    "Power": 4,
+    "Health": 6,
+    "Ability": "Other 'Undead' Units you control get +1/+1"
+  },
+  "23": {
+    "Name": "Soulless Pillager",
+    "Type": "Ranged",
+    "Class": "Undead Broker",
+    "Cost": 2,
+    "Power": 1,
+    "Health": 4,
+    "Ability": "Whenever another unit you control is sent to the grave; gain gold equal to half of its cost. (Round up)"
+  },
+  "24": {
+    "Name": "Exploding Zombie",
+    "Type": "Melee",
+    "Class": "Undead Special",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "If this unit is sent to the grave, target enemy; deal 2 damage to it"
+  },
+  "25": {
+    "Name": "The Butcher",
+    "Type": "Melee",
+    "Class": "Undead Special",
+    "Cost": 2,
+    "Power": 3,
+    "Health": 8,
+    "Ability": "GOLD 1 (0 if the opponent controls more units) When this unit is deployed; Sacrifice a unit, the opponent sacrifices a unit with lowest health (your choice if tied)"
+  },
+  "26": {
+    "Name": "Skeleton Archer",
+    "Type": "Ranged",
+    "Class": "Undead Archer",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 3,
+    "Ability": "Before draw, if this card is in the graveyard and you have a unit hand; discard it and play this card"
+  },
+  "27": {
+    "Name": "Runner",
+    "Type": "Melee",
+    "Class": "Undead",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 2,
+    "Ability": "HASTE \nIf this unit was deployed from the grave it gains +1 power"
+  },
+  "28": {
+    "Name": "Gravedigger",
+    "Type": "Ranged",
+    "Class": "Undead",
+    "Cost": 2,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "On deploy; INVESTIGATE unit 3, destroy a unit investigated, G1 Deploy that unit before destroying it"
+  },
+  "29": {
+    "Name": "Cultist Mimic",
+    "Type": "Ranged",
+    "Class": "Cultist",
+    "Cost": 2,
+    "Power": 2,
+    "Health": 4,
+    "Ability": "When this unit is deployed; You may play a spell from your grave then exile it. If it is a 'Oath' spell you may play it for free."
+  },
+  "30": {
+    "Name": "Group Caster",
+    "Type": "Ranged",
+    "Class": "Basic Oath Cultist",
+    "Cost": 1,
+    "Power": 2,
+    "Health": 3,
+    "Ability": "Oath' spells cost 1 less (min 1) while you control another 'Cultist'\nYou can sacrifice this and 2 other units; Play a dragon unit from your deck"
+  },
+  "31": {
+    "Name": "Spell Hoarding Dragon",
+    "Type": "Melee",
+    "Class": "Dragon",
+    "Cost": 4,
+    "Power": 3,
+    "Health": 10,
+    "Ability": "On deploy; You can bottom stack any number of Spells in your grave, this unit gains 1 Power and 1 Health per spell"
+  },
+  "32": {
+    "Name": "Cursed Fighter",
+    "Type": "Melee",
+    "Class": "Cultist",
+    "Cost": 2,
+    "Power": 3,
+    "Health": 6,
+    "Ability": "When a spell is played; Gain 1 power until the end of the turn"
+  }
+}
