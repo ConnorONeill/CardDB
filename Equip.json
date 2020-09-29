@@ -1,6 +1,7 @@
 {
   "58": {
     "Name": "Steel Teeth",
+    "Group": 1,
     "Class": "Animal",
     "Restriction": "'Dog', 'Cat', 'Dinosaur'",
     "Cost": 1,
@@ -14,6 +15,7 @@
   },
   "59": {
     "Name": "Shearers",
+    "Group": 1,
     "Class": "Druid",
     "Restriction": "'Druid'",
     "Cost": 1,
@@ -27,6 +29,7 @@
   },
   "60": {
     "Name": "Haste Boots",
+    "Group": 1,
     "Class": "Boots",
     "Restriction": "",
     "Cost": 1,
@@ -40,6 +43,7 @@
   },
   "61": {
     "Name": "Mobility Boots",
+    "Group": 1,
     "Class": "Boots",
     "Restriction": "",
     "Cost": 1,
@@ -53,6 +57,7 @@
   },
   "62": {
     "Name": "Scouting Boots",
+    "Group": 1,
     "Class": "Boots",
     "Restriction": "",
     "Cost": 1,
@@ -66,6 +71,7 @@
   },
   "63": {
     "Name": "Poisoned Cloak",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -79,6 +85,7 @@
   },
   "64": {
     "Name": "Extender stick",
+    "Group": 1,
     "Class": "",
     "Restriction": "Melee",
     "Cost": 1,
@@ -92,6 +99,7 @@
   },
   "65": {
     "Name": "Vampiric Blade",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -105,6 +113,7 @@
   },
   "66": {
     "Name": "Titan Shield",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -118,6 +127,7 @@
   },
   "67": {
     "Name": "Razor-Sharp Spear",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -131,6 +141,7 @@
   },
   "68": {
     "Name": "Organ Remover",
+    "Group": 1,
     "Class": "Undead",
     "Restriction": "",
     "Cost": 2,
@@ -144,6 +155,7 @@
   },
   "69": {
     "Name": "Unholy Sword",
+    "Group": 1,
     "Class": "Undead",
     "Restriction": "",
     "Cost": 1,
@@ -157,6 +169,7 @@
   },
   "70": {
     "Name": "Phantasm's Shroud",
+    "Group": 1,
     "Class": "Cloak",
     "Restriction": "",
     "Cost": 1,
@@ -170,6 +183,7 @@
   },
   "71": {
     "Name": "Power Sap",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -183,6 +197,7 @@
   },
   "72": {
     "Name": "War Suit",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 2,
@@ -196,6 +211,7 @@
   },
   "73": {
     "Name": "Bookstand",
+    "Group": 1,
     "Class": "Cultist",
     "Restriction": "",
     "Cost": 2,
@@ -209,6 +225,7 @@
   },
   "74": {
     "Name": "Magic Sapping Glove",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -222,6 +239,7 @@
   },
   "75": {
     "Name": "Magic Sapping Cloak",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,

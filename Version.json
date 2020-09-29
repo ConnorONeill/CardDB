@@ -1,8 +1,8 @@
 {
   "VersionControl": {
-    "Version": "0.0.1",
-    "ReleaseDate": "28/09/2020",
-    "Units": true,
+    "Version": "0.0.2",
+    "ReleaseDate": "29/09/2020",
+    "Unit": true,
     "Equip": true,
     "Spell": true,
     "Relic": true
