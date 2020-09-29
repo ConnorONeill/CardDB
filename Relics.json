@@ -1,0 +1,56 @@
+{
+  "Sloop": {
+    "Name": "Sloop",
+    "Group": 3,
+    "Cost": 5,
+    "Class": "Ship",
+    "Type": "Equip",
+    "Health": 5,
+    "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\nAllied 'Pirate's gain 1 Health\n1PT: Steal or gain 1 gold"
+  },
+  "Brigantine": {
+    "Name": "Brigantine",
+    "Group": 3,
+    "Cost": 6,
+    "Class": "Ship",
+    "Type": "Equip",
+    "Health": 6,
+    "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n1PT, INVESTIGATE Unit 1; Add 1 'Pirate'\nAllied 'Pirate's cost in hand is reduced by 1 (Min 1)"
+  },
+  "Frigate": {
+    "Name": "Frigate",
+    "Group": 3,
+    "Cost": 7,
+    "Class": "Ship",
+    "Type": "Equip",
+    "Health": 7,
+    "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n1PT, Target Unit; Silence it\nAllied 'Pirate's and 'Ship's gain 2 DR"
+  },
+  "Galleon": {
+    "Name": "Galleon",
+    "Group": 3,
+    "Cost": 8,
+    "Class": "Ship",
+    "Type": "Equip",
+    "Health": 8,
+    "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\nAllied 'Pirate' abilities deal 1 extra damage\n1PT, Target Enemy: Deal it 3 Damage"
+  },
+  "Man O' War": {
+    "Name": "Man O' War",
+    "Group": 3,
+    "Cost": 9,
+    "Class": "Ship",
+    "Type": "Equip",
+    "Health": 9,
+    "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n'Pirate's gain 1 Power\n1PT, Target 'Pirate': It gains RUSH and an additional Attack"
+  },
+  "Ferry of the Damned": {
+    "Name": "Ferry of the Damned",
+    "Group": 3,
+    "Cost": 6,
+    "Class": "Undead Ship",
+    "Type": "Equip",
+    "Health": 6,
+    "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n'Undead' units gain 1 Power\nSlow 1PT Deploy a 'Pirate' from grave additionally as 'Undead'"
+  }
+}
