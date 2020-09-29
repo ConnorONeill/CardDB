@@ -1,5 +1,5 @@
 {
-  "33": {
+  "Merciless Looting": {
     "Name": "Merciless Looting",
     "Group": 2,
     "Type": "General",
@@ -7,7 +7,7 @@
     "Cost": 1,
     "Ability": "During end; Gain 1 gold for every enemy destroyed and 2 gold for every enemy defeated during this turn"
   },
-  "34": {
+  "Shipyard": {
     "Name": "Shipyard",
     "Group": 2,
     "Type": "Permament",
@@ -15,7 +15,7 @@
     "Cost": 2,
     "Ability": "All Allied ships gain 2 Health\n1PT INVESTIGATE Equip 3; Add a 'Ship'"
   },
-  "35": {
+  "Shipwreck": {
     "Name": "Shipwreck",
     "Group": 2,
     "Type": "General",
@@ -23,7 +23,7 @@
     "Cost": 5,
     "Ability": "Destroy all allied units (min 1); Deal instances of 2 damage per 'Ship' destroyed to all enemy units, or face if there are no enemy units, then deal instances of 1 damage for each other ally destroyed, then deploy a 'Ferry of The Damned' from your deck"
   },
-  "36": {
+  "Treasure Map": {
     "Name": "Treasure Map",
     "Group": 2,
     "Type": "General",
@@ -31,7 +31,7 @@
     "Cost": 1,
     "Ability": "Target enemy zone in column with no allied units; During end mark that zone\nIf life is damaged through marked zone; Gain 3 gold"
   },
-  "37": {
+  "Hunting Season": {
     "Name": "Hunting Season",
     "Group": 2,
     "Type": "General",
@@ -39,7 +39,7 @@
     "Cost": 2,
     "Ability": "All allied 'animals' gain HASTE and 1 power + 1 additional power for each 'druid' unit you control"
   },
-  "38": {
+  "Animal Training": {
     "Name": "Animal Training",
     "Group": 2,
     "Type": "Permament",
@@ -47,7 +47,7 @@
     "Cost": 2,
     "Ability": "If an 'Animal' and 'Druid' support each other; The 'Animal' gains 2 Health and the 'Druid' gains 1 Power\nSLOW, 1PT; INVESTIGATE unit 1; add 1 'Animal'"
   },
-  "39": {
+  "Calling Howl": {
     "Name": "Calling Howl",
     "Group": 2,
     "Type": "General",
@@ -55,7 +55,7 @@
     "Cost": 2,
     "Ability": "If you control a 'Dog', at the start of your next turn; Deploy 2 'Dog' units from your deck"
   },
-  "40": {
+  "Return of the dead": {
     "Name": "Return of the dead",
     "Group": 2,
     "Type": "Permament",
@@ -63,7 +63,7 @@
     "Cost": 2,
     "Ability": "1PT, target an 'Undead' unit in your graveyard and pay its cost; deploy it from your graveyard"
   },
-  "41": {
+  "Forced Entombment": {
     "Name": "Forced Entombment",
     "Group": 2,
     "Type": "General",
@@ -71,7 +71,7 @@
     "Cost": 1,
     "Ability": "SEARCH Unit; Send a unit to grave"
   },
-  "42": {
+  "Ghoulification": {
     "Name": "Ghoulification",
     "Group": 2,
     "Type": "General",
@@ -79,7 +79,7 @@
     "Cost": 1,
     "Ability": "Sacrifice a unit, target a unit in the grave, Cost is equal to grave unit cost - sacrificed unit cost; Deploy the unit from grave additionally as 'Undead'"
   },
-  "43": {
+  "Voodoo Ritual": {
     "Name": "Voodoo Ritual",
     "Group": 2,
     "Type": "General",
@@ -87,7 +87,7 @@
     "Cost": 1,
     "Ability": "Target enemy unit, target allied unit; deal an amount of damage equal to the allied units current health to both units"
   },
-  "44": {
+  "Oath to Being": {
     "Name": "Oath to Being",
     "Group": 2,
     "Type": "General",
@@ -95,7 +95,7 @@
     "Cost": "X",
     "Ability": "Target unit in grave, the cost of this card is equal to the cost of the unit +1 (if the target is a 'Cultist' the cost is the cost of the unit); deploy it with +1 Power"
   },
-  "45": {
+  "Oath to Knowledge": {
     "Name": "Oath to Knowledge",
     "Group": 2,
     "Type": "General",
@@ -103,7 +103,7 @@
     "Cost": 1,
     "Ability": "This card has cost 0 if there are no Oath card in your grave \nSearch one 'Oath' spell (you can only cast 1 'Oath Of Mystery' per turn)"
   },
-  "46": {
+  "Oath to Mimicry ": {
     "Name": "Oath to Mimicry",
     "Group": 2,
     "Type": "General",
@@ -111,7 +111,7 @@
     "Cost": 2,
     "Ability": "Target one General 'Oath' spell in your graveyard; The ability of this card becomes the ability of the targeted card"
   },
-  "47": {
+  "Oath to Destruction": {
     "Name": "Oath to Destruction",
     "Group": 2,
     "Type": "General",
@@ -119,7 +119,7 @@
     "Cost": 2,
     "Ability": "Target unit or player; deal it damage equal to half the number of 'Oath' spells (rounded up) in the grave +2 (Max 5 damage)"
   },
-  "48": {
+  "Oath to Banishment": {
     "Name": "Oath to Banishment",
     "Group": 2,
     "Type": "General",
@@ -127,7 +127,7 @@
     "Cost": 3,
     "Ability": "Target unit, equip or permament; Place 'Oath' cards in the grave equal to its cost then destroy it"
   },
-  "49": {
+  "Oath to Strength": {
     "Name": "Oath to Strength",
     "Group": 2,
     "Type": "General",
@@ -135,7 +135,7 @@
     "Cost": 1,
     "Ability": "Target unit; it gains 2 power If that unit deals face damage gain 1 gold if there is at least 2 Oath cards in your grave and 2 gold if there are at least 4"
   },
-  "50": {
+  "Oath to Silence": {
     "Name": "Oath to Silence",
     "Group": 2,
     "Type": "General",
@@ -143,7 +143,7 @@
     "Cost": 1,
     "Ability": "Target unit; SILENCE it and any equipment attatched to it until the end of next turn"
   },
-  "51": {
+  "Disruption": {
     "Name": "Disruption",
     "Group": 2,
     "Type": "Reaction",
@@ -151,7 +151,7 @@
     "Cost": "X",
     "Ability": "When a spell is cast, X = the casted spell's cost; Counter it"
   },
-  "52": {
+  "Piercing Arrow": {
     "Name": "Piercing Arrow",
     "Group": 2,
     "Type": "General",
@@ -159,7 +159,7 @@
     "Cost": 2,
     "Ability": "Target column; Deal 4 damage to all enemy units in that column"
   },
-  "53": {
+  "Fireball ": {
     "Name": "Fireball",
     "Group": 2,
     "Type": "General",
@@ -167,7 +167,7 @@
     "Cost": 1,
     "Ability": "Target enemy; Deal 3 damage"
   },
-  "54": {
+  "Eruption": {
     "Name": "Eruption",
     "Group": 2,
     "Type": "General",
@@ -175,7 +175,7 @@
     "Cost": 3,
     "Ability": "Destroy all units with 4 or less Health"
   },
-  "55": {
+  "Intervention": {
     "Name": "Intervention",
     "Group": 2,
     "Type": "Reaction",
@@ -183,7 +183,7 @@
     "Cost": 1,
     "Ability": "Cast when a unit would take damage; reduce that damage to 0"
   },
-  "56": {
+  "Angel's Judgment": {
     "Name": "Angel's Judgment",
     "Group": 2,
     "Type": "General",
@@ -191,7 +191,7 @@
     "Cost": 3,
     "Ability": "Target enemy unit; Destroy it"
   },
-  "57": {
+  "Shatter": {
     "Name": "Shatter",
     "Group": 2,
     "Type": "General",

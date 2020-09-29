@@ -1,5 +1,5 @@
 {
-  "58": {
+  "Steel Teeth": {
     "Name": "Steel Teeth",
     "Group": 1,
     "Class": "Animal",
@@ -13,7 +13,7 @@
     "Val 3": "",
     "Ability": "Grants PIERCING"
   },
-  "59": {
+  "Shearers": {
     "Name": "Shearers",
     "Group": 1,
     "Class": "Druid",
@@ -27,7 +27,7 @@
     "Val 3": "",
     "Ability": "If an animal is in support; gain 1 gold income"
   },
-  "60": {
+  "Haste Boots": {
     "Name": "Haste Boots",
     "Group": 1,
     "Class": "Boots",
@@ -41,7 +41,7 @@
     "Val 3": "",
     "Ability": "Grants HASTE"
   },
-  "61": {
+  "Mobility Boots": {
     "Name": "Mobility Boots",
     "Group": 1,
     "Class": "Boots",
@@ -55,7 +55,7 @@
     "Val 3": "",
     "Ability": "Grants MOBILITY (Can move up to twice a turn, and after attacking)"
   },
-  "62": {
+  "Scouting Boots": {
     "Name": "Scouting Boots",
     "Group": 1,
     "Class": "Boots",
@@ -69,7 +69,7 @@
     "Val 3": "",
     "Ability": "Grants SCOUTING (can move between columns)"
   },
-  "63": {
+  "Poisoned Cloak": {
     "Name": "Poisoned Cloak",
     "Group": 1,
     "Class": "",
@@ -83,7 +83,7 @@
     "Val 3": "",
     "Ability": "The equipped unit takes 2 damage at the start of the host's turns. this damage increases by 1 per turn"
   },
-  "64": {
+  "Extender stick": {
     "Name": "Extender stick",
     "Group": 1,
     "Class": "",
@@ -97,7 +97,7 @@
     "Val 3": "",
     "Ability": "Host becomes Ranged"
   },
-  "65": {
+  "Vampiric Blade": {
     "Name": "Vampiric Blade",
     "Group": 1,
     "Class": "",
@@ -111,7 +111,7 @@
     "Val 3": "",
     "Ability": "Grants additional 1 Power while attacking units: when the host defeats a unit: heal hp up to the max hp of that unit"
   },
-  "66": {
+  "Titan Shield": {
     "Name": "Titan Shield",
     "Group": 1,
     "Class": "",
@@ -125,7 +125,7 @@
     "Val 3": "",
     "Ability": "Grants 1 Armour to all adjacent units"
   },
-  "67": {
+  "Razor-Sharp Spear": {
     "Name": "Razor-Sharp Spear",
     "Group": 1,
     "Class": "",
@@ -139,7 +139,7 @@
     "Val 3": "",
     "Ability": "Grants PIERCING Grants +2 Power while attacking units"
   },
-  "68": {
+  "Organ Remover": {
     "Name": "Organ Remover",
     "Group": 1,
     "Class": "Undead",
@@ -153,7 +153,7 @@
     "Val 3": "",
     "Ability": "SLOW Sacrifice the equipped unit; if allied gain 4 gold"
   },
-  "69": {
+  "Unholy Sword": {
     "Name": "Unholy Sword",
     "Group": 1,
     "Class": "Undead",
@@ -167,7 +167,7 @@
     "Val 3": "",
     "Ability": "Equipped Unit gains +1 power. If equipped unit was deployed from the graveyard, it grants +3 instead"
   },
-  "70": {
+  "Phantasm's Shroud": {
     "Name": "Phantasm's Shroud",
     "Group": 1,
     "Class": "Cloak",
@@ -181,7 +181,7 @@
     "Val 3": "",
     "Ability": "Grants +3 Health Negate the first enemy ability or spell a turn that targets the host"
   },
-  "71": {
+  "Power Sap": {
     "Name": "Power Sap",
     "Group": 1,
     "Class": "",
@@ -195,7 +195,7 @@
     "Val 3": "",
     "Ability": "Grants -3 Power"
   },
-  "72": {
+  "War Suit": {
     "Name": "War Suit",
     "Group": 1,
     "Class": "",
@@ -209,7 +209,7 @@
     "Val 3": "",
     "Ability": "If Melee host grants 5 Health, if Ranged host grants 3 Health"
   },
-  "73": {
+  "Bookstand": {
     "Name": "Bookstand",
     "Group": 1,
     "Class": "Cultist",
@@ -223,7 +223,7 @@
     "Val 3": "",
     "Ability": "The cost of the first 'Oath' spell played in a turn is reduced by the cost of the equipped unit"
   },
-  "74": {
+  "Magic Sapping Glove": {
     "Name": "Magic Sapping Glove",
     "Group": 1,
     "Class": "",
@@ -237,7 +237,7 @@
     "Val 3": "",
     "Ability": "Grants 1 additional power for every allied spell played after equipping"
   },
-  "75": {
+  "Magic Sapping Cloak": {
     "Name": "Magic Sapping Cloak",
     "Group": 1,
     "Class": "",
