@@ -1,7 +1,7 @@
 {
   "VersionControl": {
-    "Version": "0.0.4",
-    "ReleaseDate": "2020-12-09T13:30:00.000Z",
+    "Version": "0.0.5",
+    "ReleaseDate": "25/11/2020",
     "Unit": true,
     "Equip": true,
     "Spell": true,
