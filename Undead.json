@@ -1,0 +1,95 @@
+{
+  "DeckName": {
+    "Quan": "Undead"
+  },
+  "Ghastly terror": {
+    "Quan": 1
+  },
+  "Rugged skeleton": {
+    "Quan": 2
+  },
+  "Bulging Spawn": {
+    "Quan": 2
+  },
+  "Undead Queen": {
+    "Quan": 1
+  },
+  "Soulless Pillager": {
+    "Quan": 1
+  },
+  "Exploding Zombie": {
+    "Quan": 2
+  },
+  "The Butcher": {
+    "Quan": 2
+  },
+  "Skeleton Archer": {
+    "Quan": 1
+  },
+  "Runner": {
+    "Quan": 2
+  },
+  "Gravedigger": {
+    "Quan": 2
+  },
+  "Return of the dead": {
+    "Quan": 2
+  },
+  "Forced Entombment": {
+    "Quan": 3
+  },
+  "Ghoulification": {
+    "Quan": 2
+  },
+  "Voodoo Ritual": {
+    "Quan": 2
+  },
+  "Disruption": {
+    "Quan": 1
+  },
+  "Piercing Arrow": {
+    "Quan": 1
+  },
+  "Fireball": {
+    "Quan": 1
+  },
+  "Eruption": {
+    "Quan": 1
+  },
+  "Intervention": {
+    "Quan": 1
+  },
+  "Angel's Judgment": {
+    "Quan": 1
+  },
+  "Shatter": {
+    "Quan": 1
+  },
+  "Haste Boots": {
+    "Quan": 1
+  },
+  "Mobility Boots": {
+    "Quan": 1
+  },
+  "Scouting Boots": {
+    "Quan": 2
+  },
+  "Poisoned Cloak": {
+    "Quan": 2
+  },
+  "Razor-Sharp Spear": {
+    "Quan": 2
+  },
+  "Organ Remover": {
+    "Quan": 2
+  },
+  "Unholy Sword": {
+    "Quan": 2
+  },
+  "Phantasm's Shroud": {
+    "Quan": 2
+  },
+  "War Suit": {
+    "Quan": 2
+  }
+}
