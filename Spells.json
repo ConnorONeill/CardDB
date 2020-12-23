@@ -159,7 +159,7 @@
     "Cost": 2,
     "Ability": "Target column; Deal 4 damage to all enemy units in that column"
   },
-  "Fireball ": {
+  "Fireball": {
     "Name": "Fireball",
     "Group": 2,
     "Type": "General",
