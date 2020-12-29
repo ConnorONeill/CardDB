@@ -11,6 +11,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants PIERCING"
   },
   "Shearers": {
@@ -25,6 +26,7 @@
     "Val 2": 1,
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "If an animal is in support; gain 1 gold income"
   },
   "Haste Boots": {
@@ -39,6 +41,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants HASTE"
   },
   "Mobility Boots": {
@@ -53,6 +56,7 @@
     "Val 2": 2,
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants MOBILITY (Can move up to twice a turn, and after attacking)"
   },
   "Scouting Boots": {
@@ -67,6 +71,7 @@
     "Val 2": 2,
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants SCOUTING (can move between columns)"
   },
   "Poisoned Cloak": {
@@ -81,6 +86,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "The equipped unit takes 2 damage at the start of the host's turns. this damage increases by 1 per turn"
   },
   "Extender stick": {
@@ -95,6 +101,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Host becomes Ranged"
   },
   "Vampiric Blade": {
@@ -109,6 +116,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants additional 1 Power while attacking units: when the host defeats a unit: heal hp up to the max hp of that unit"
   },
   "Titan Shield": {
@@ -123,6 +131,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants 1 Armour to all adjacent units"
   },
   "Razor-Sharp Spear": {
@@ -137,6 +146,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants PIERCING Grants +2 Power while attacking units"
   },
   "Organ Remover": {
@@ -151,6 +161,7 @@
     "Val 2": 1,
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "SLOW Sacrifice the equipped unit; if allied gain 4 gold"
   },
   "Unholy Sword": {
@@ -165,6 +176,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Equipped Unit gains +1 power. If equipped unit was deployed from the graveyard, it grants +3 instead"
   },
   "Phantasm's Shroud": {
@@ -179,6 +191,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants +3 Health Negate the first enemy ability or spell a turn that targets the host"
   },
   "Power Sap": {
@@ -193,6 +206,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants -3 Power"
   },
   "War Suit": {
@@ -207,6 +221,7 @@
     "Val 2": "5/3",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "If Melee host grants 5 Health, if Ranged host grants 3 Health"
   },
   "Bookstand": {
@@ -221,6 +236,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "The cost of the first 'Oath' spell played in a turn is reduced by the cost of the equipped unit"
   },
   "Magic Sapping Glove": {
@@ -235,6 +251,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants 1 additional power for every allied spell played after equipping"
   },
   "Magic Sapping Cloak": {
@@ -249,6 +266,7 @@
     "Val 2": "",
     "Stat 3": "",
     "Val 3": "",
+    "Limit": 2,
     "Ability": "Grants 2 additional health for every allied spell played after equipping"
   }
 }

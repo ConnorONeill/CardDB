@@ -6,6 +6,7 @@
     "Class": "Ship",
     "Type": 1,
     "Health": 5,
+    "Limit": 2,
     "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\nAllied 'Pirate's gain 1 Health\n1PT: Steal or gain 1 gold"
   },
   "Brigantine": {
@@ -15,6 +16,7 @@
     "Class": "Ship",
     "Type": 1,
     "Health": 6,
+    "Limit": 2,
     "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n1PT, INVESTIGATE Unit 1; Add 1 'Pirate'\nAllied 'Pirate's cost in hand is reduced by 1 (Min 1)"
   },
   "Frigate": {
@@ -24,6 +26,7 @@
     "Class": "Ship",
     "Type": 1,
     "Health": 7,
+    "Limit": 2,
     "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n1PT, Target Unit; Silence it\nAllied 'Pirate's and 'Ship's gain 2 DR"
   },
   "Galleon": {
@@ -33,6 +36,7 @@
     "Class": "Ship",
     "Type": 1,
     "Health": 8,
+    "Limit": 2,
     "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\nAllied 'Pirate' abilities deal 1 extra damage\n1PT, Target Enemy: Deal it 3 Damage"
   },
   "Man O' War": {
@@ -42,6 +46,7 @@
     "Class": "Ship",
     "Type": 1,
     "Health": 9,
+    "Limit": 2,
     "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n'Pirate's gain 1 Power\n1PT, Target 'Pirate': It gains RUSH and an additional Attack"
   },
   "Ferry of the Damned": {
@@ -51,6 +56,7 @@
     "Class": "Undead Ship",
     "Type": 1,
     "Health": 6,
+    "Limit": 2,
     "Ability": "Pirate' AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n'Undead' units gain 1 Power\nSlow 1PT Deploy a 'Pirate' from grave additionally as 'Undead'"
   }
 }
