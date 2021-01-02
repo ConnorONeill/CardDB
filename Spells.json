@@ -1,7 +1,7 @@
 {
   "Merciless Looting": {
     "Name": "Merciless Looting",
-    "img": "Merciless Looting",
+    "Group": 2,
     "Type": "General",
     "Class": "Pirate",
     "Cost": 1,
@@ -10,7 +10,7 @@
   },
   "Shipyard": {
     "Name": "Shipyard",
-    "img": "Shipyard",
+    "Group": 2,
     "Type": "Permament",
     "Class": "Pirate Ship",
     "Cost": 2,
@@ -19,7 +19,7 @@
   },
   "Shipwreck": {
     "Name": "Shipwreck",
-    "img": "Shipwreck",
+    "Group": 2,
     "Type": "General",
     "Class": "Pirate",
     "Cost": 5,
@@ -28,7 +28,7 @@
   },
   "Treasure Map": {
     "Name": "Treasure Map",
-    "img": "Treasure Map",
+    "Group": 2,
     "Type": "General",
     "Class": "Pirate",
     "Cost": 1,
@@ -37,7 +37,7 @@
   },
   "Hunting Season": {
     "Name": "Hunting Season",
-    "img": "Hunting Season",
+    "Group": 2,
     "Type": "General",
     "Class": "Animal Druid",
     "Cost": 2,
@@ -46,7 +46,7 @@
   },
   "Animal Training": {
     "Name": "Animal Training",
-    "img": "Animal Training",
+    "Group": 2,
     "Type": "Permament",
     "Class": "Druid Animal",
     "Cost": 2,
@@ -55,7 +55,7 @@
   },
   "Calling Howl": {
     "Name": "Calling Howl",
-    "img": "Calling Howl",
+    "Group": 2,
     "Type": "General",
     "Class": "Animal Dog",
     "Cost": 2,
@@ -64,7 +64,7 @@
   },
   "Return of the Dead": {
     "Name": "Return of the Dead",
-    "img": "Return of the Dead",
+    "Group": 2,
     "Type": "Permament",
     "Class": "Undead",
     "Cost": 2,
@@ -73,7 +73,7 @@
   },
   "Forced Entombment": {
     "Name": "Forced Entombment",
-    "img": "Forced Entombment",
+    "Group": 2,
     "Type": "General",
     "Class": "Undead",
     "Cost": 1,
@@ -82,7 +82,7 @@
   },
   "Ghoulification": {
     "Name": "Ghoulification",
-    "img": "Ghoulification",
+    "Group": 2,
     "Type": "General",
     "Class": "Undead",
     "Cost": 1,
@@ -91,7 +91,7 @@
   },
   "Voodoo Ritual": {
     "Name": "Voodoo Ritual",
-    "img": "Voodoo Ritual",
+    "Group": 2,
     "Type": "General",
     "Class": "Undead",
     "Cost": 1,
@@ -100,7 +100,7 @@
   },
   "Oath to Being": {
     "Name": "Oath to Being",
-    "img": "Oath to Being",
+    "Group": 2,
     "Type": "General",
     "Class": "Oath",
     "Cost": "X",
@@ -109,7 +109,7 @@
   },
   "Oath to Knowledge": {
     "Name": "Oath to Knowledge",
-    "img": "Oath to Knowledge",
+    "Group": 2,
     "Type": "General",
     "Class": "Basic Oath",
     "Cost": 1,
@@ -118,7 +118,7 @@
   },
   "Oath to Mimicry": {
     "Name": "Oath to Mimicry",
-    "img": "Oath to Mimicry",
+    "Group": 2,
     "Type": "General",
     "Class": "Oath",
     "Cost": 2,
@@ -127,7 +127,7 @@
   },
   "Oath to Destruction": {
     "Name": "Oath to Destruction",
-    "img": "Oath to Destruction",
+    "Group": 2,
     "Type": "General",
     "Class": "Oath",
     "Cost": 2,
@@ -136,7 +136,7 @@
   },
   "Oath to Banishment": {
     "Name": "Oath to Banishment",
-    "img": "Oath to Banishment",
+    "Group": 2,
     "Type": "General",
     "Class": "Oath",
     "Cost": 3,
@@ -145,7 +145,7 @@
   },
   "Oath to Strength": {
     "Name": "Oath to Strength",
-    "img": "Oath to Strength",
+    "Group": 2,
     "Type": "General",
     "Class": "Oath",
     "Cost": 1,
@@ -154,7 +154,7 @@
   },
   "Oath to Silence": {
     "Name": "Oath to Silence",
-    "img": "Oath to Silence",
+    "Group": 2,
     "Type": "General",
     "Class": "Oath",
     "Cost": 1,
@@ -163,7 +163,7 @@
   },
   "Disruption": {
     "Name": "Disruption",
-    "img": "Disruption",
+    "Group": 2,
     "Type": "Reaction",
     "Class": "",
     "Cost": "X",
@@ -172,7 +172,7 @@
   },
   "Piercing Arrow": {
     "Name": "Piercing Arrow",
-    "img": "Piercing Arrow",
+    "Group": 2,
     "Type": "General",
     "Class": "",
     "Cost": 2,
@@ -181,7 +181,7 @@
   },
   "Fireball": {
     "Name": "Fireball",
-    "img": "Fireball",
+    "Group": 2,
     "Type": "General",
     "Class": "",
     "Cost": 1,
@@ -190,7 +190,7 @@
   },
   "Eruption": {
     "Name": "Eruption",
-    "img": "Eruption",
+    "Group": 2,
     "Type": "General",
     "Class": "",
     "Cost": 3,
@@ -199,7 +199,7 @@
   },
   "Intervention": {
     "Name": "Intervention",
-    "img": "Intervention",
+    "Group": 2,
     "Type": "Reaction",
     "Class": "",
     "Cost": 1,
@@ -208,7 +208,7 @@
   },
   "Angel's Judgment": {
     "Name": "Angel's Judgment",
-    "img": "Angel's Judgment",
+    "Group": 2,
     "Type": "General",
     "Class": "",
     "Cost": 3,
@@ -217,7 +217,7 @@
   },
   "Shatter": {
     "Name": "Shatter",
-    "img": "Shatter",
+    "Group": 2,
     "Type": "General",
     "Class": "Arcane",
     "Cost": 2,
@@ -226,7 +226,7 @@
   },
   "Magical Footwear": {
     "Name": "Magical Footwear",
-    "img": "Magical Footwear",
+    "Group": 2,
     "Type": "General",
     "Class": "",
     "Cost": 1,
