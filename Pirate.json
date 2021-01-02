@@ -1,0 +1,92 @@
+{
+  "DeckName": {
+    "Quan": "Pirate"
+  },
+  "Sea Captain": {
+    "Quan": 2
+  },
+  "Navigator": {
+    "Quan": 1
+  },
+  "Cannoneer": {
+    "Quan": 1
+  },
+  "Hardened Chef": {
+    "Quan": 1
+  },
+  "Crazy Samuel": {
+    "Quan": 2
+  },
+  "Black Eye": {
+    "Quan": 1
+  },
+  "Pirate Recruiter": {
+    "Quan": 2
+  },
+  "First Mate": {
+    "Quan": 2
+  },
+  "Pirate Apprentice": {
+    "Quan": 2
+  },
+  "Merciless Looting": {
+    "Quan": 2
+  },
+  "Shipyard": {
+    "Quan": 2
+  },
+  "Shipwreck": {
+    "Quan": 2
+  },
+  "Fireball": {
+    "Quan": 1
+  },
+  "Eruption": {
+    "Quan": 1
+  },
+  "Intervention": {
+    "Quan": 1
+  },
+  "Angel's Judgment": {
+    "Quan": 1
+  },
+  "Piercing Arrow": {
+    "Quan": 1
+  },
+  "Oath to Knowledge": {
+    "Quan": 2
+  },
+  "Oath to Strength": {
+    "Quan": 1
+  },
+  "Oath to Silence": {
+    "Quan": 1
+  },
+  "Oath to Being": {
+    "Quan": 1
+  },
+  "Poisoned Cloak": {
+    "Quan": 2
+  },
+  "Sloop": {
+    "Quan": 2
+  },
+  "Brigantine": {
+    "Quan": 2
+  },
+  "Frigate": {
+    "Quan": 2
+  },
+  "Galleon": {
+    "Quan": 2
+  },
+  "Man O' War": {
+    "Quan": 2
+  },
+  "Ferry of the Damned": {
+    "Quan": 2
+  },
+  "Haste Boots": {
+    "Quan": 2
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "DeckName": {
+    "Quan": "Cultist"
+  },
+  "Cultist Mimic": {
+    "Quan": 2
+  },
+  "Group Caster": {
+    "Quan": 2
+  },
+  "Spell Hoarding Dragon": {
+    "Quan": 1
+  },
+  "Cursed Fighter": {
+    "Quan": 2
+  },
+  "Cultist Treasurer": {
+    "Quan": 1
+  },
+  "Cultist Priest": {
+    "Quan": 2
+  },
+  "Cultist Scribe": {
+    "Quan": 2
+  },
+  "Cultist Martyr": {
+    "Quan": 2
+  },
+  "Cultist Thief": {
+    "Quan": 2
+  },
+  "Haste Boots": {
+    "Quan": 2
+  },
+  "Mobility Boots": {
+    "Quan": 1
+  },
+  "Scouting Boots": {
+    "Quan": 2
+  },
+  "Poisoned Cloak": {
+    "Quan": 2
+  },
+  "Extender Stick": {
+    "Quan": 1
+  },
+  "Razor-Sharp Spear": {
+    "Quan": 2
+  },
+  "Organ Remover": {
+    "Quan": 1
+  },
+  "Phantasm's Shroud": {
+    "Quan": 1
+  },
+  "Bookstand": {
+    "Quan": 2
+  },
+  "Magic Sapping Glove": {
+    "Quan": 1
+  },
+  "Magic Sapping Cloak": {
+    "Quan": 1
+  },
+  "Oath to Being": {
+    "Quan": 2
+  },
+  "Oath to Knowledge": {
+    "Quan": 3
+  },
+  "Oath to Mimicry": {
+    "Quan": 1
+  },
+  "Oath to Destruction": {
+    "Quan": 1
+  },
+  "Oath to Banishment": {
+    "Quan": 1
+  },
+  "Oath to Strength": {
+    "Quan": 2
+  },
+  "Oath to Silence": {
+    "Quan": 2
+  },
+  "Piercing Arrow": {
+    "Quan": 1
+  },
+  "Fireball": {
+    "Quan": 1
+  },
+  "Eruption": {
+    "Quan": 1
+  },
+  "Magical Footwear": {
+    "Quan": 1
+  }
+}
