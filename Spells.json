@@ -42,7 +42,7 @@
     "Class": "Animal Druid",
     "Cost": 2,
     "Limit": 2,
-    "Ability": "All allied 'animals' gain HASTE and 1 power + 1 additional power for each 'druid' unit you control"
+    "Ability": "All allied 'Animals' gain HASTE and 1 Power + 1 additional Power for each 'Druid' unit you control"
   },
   "Animal Training": {
     "Name": "Animal Training",
@@ -51,7 +51,7 @@
     "Class": "Druid Animal",
     "Cost": 2,
     "Limit": 2,
-    "Ability": "If an 'Animal' and 'Druid' support each other; The 'Animal' gains 2 Health and the 'Druid' gains 1 Power\nSLOW, 1PT; INVESTIGATE unit 1; add 1 'Animal'"
+    "Ability": "If an 'Animal' and 'Druid' support each other; They both gain 1 Power and 1 Health\nSLOW, 1PT; INVESTIGATE unit 1; add 1 'Animal'"
   },
   "Calling Howl": {
     "Name": "Calling Howl",
@@ -60,7 +60,7 @@
     "Class": "Animal Dog",
     "Cost": 2,
     "Limit": 2,
-    "Ability": "If you control a 'Dog', at the start of your next turn; Deploy 2 'Dog' units from your deck"
+    "Ability": "If you control a 'Dog', during your next income; Deploy 2 'Dog' units from your deck"
   },
   "Return of the Dead": {
     "Name": "Return of the Dead",
@@ -69,7 +69,7 @@
     "Class": "Undead",
     "Cost": 2,
     "Limit": 2,
-    "Ability": "1PT, target an 'Undead' unit in your graveyard and pay its cost; deploy it from your graveyard"
+    "Ability": "1PT, target an 'Undead' unit in your graveyard and pay its cost + 1 (If at unit disadvantage, pay its cost); deploy it from your graveyard"
   },
   "Forced Entombment": {
     "Name": "Forced Entombment",
@@ -132,7 +132,7 @@
     "Class": "Oath",
     "Cost": 2,
     "Limit": 2,
-    "Ability": "Target unit or player; deal it damage equal to half the number of 'Oath' spells (rounded up) in the grave +2 (Max 5 damage)"
+    "Ability": "Target unit; deal PIERCING damage equal to half the number of 'Oath' spells (rounded up) in the grave +2"
   },
   "Oath to Banishment": {
     "Name": "Oath to Banishment",
@@ -213,7 +213,7 @@
     "Class": "",
     "Cost": 3,
     "Limit": 1,
-    "Ability": "Target enemy unit; Destroy it"
+    "Ability": "Target enemy unit; Destroy it, KICK GOLD 1 Exile instead"
   },
   "Shatter": {
     "Name": "Shatter",

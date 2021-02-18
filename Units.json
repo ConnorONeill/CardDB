@@ -6,7 +6,7 @@
     "Class": "Druid Caster",
     "Cost": 2,
     "Power": 1,
-    "Health": 4,
+    "Health": 5,
     "Limit": 2,
     "Ability": "SLOW Once per turn; you can deploy an 'Animal' unit of cost 1 or less from your hand or of cost 2 or less if an 'Animal' is in support"
   },
@@ -30,7 +30,7 @@
     "Power": 2,
     "Health": 6,
     "Limit": 1,
-    "Ability": "Gains the power and ability of a supporting 'Animal'"
+    "Ability": "SHROUD (Unaffected by first enemy ability that targets this card each turn)\nGains the Power and Ability of a supporting 'Animal'"
   },
   "Recon Druid": {
     "Name": "Recon Druid",
@@ -41,7 +41,7 @@
     "Power": 2,
     "Health": 2,
     "Limit": 2,
-    "Ability": "Grants HASTE  to an ‘Animal’ in support\nGains HASTE if an ‘Animal’ is in support"
+    "Ability": "Grants HASTE to an ‘Animal’ in support\nGains RUSH if an ‘Animal’ is in support"
   },
   "Hunting Hawk": {
     "Name": "Hunting Hawk",
@@ -50,9 +50,9 @@
     "Class": "Bird Animal",
     "Cost": 1,
     "Power": 2,
-    "Health": 4,
+    "Health": 3,
     "Limit": 2,
-    "Ability": "HASTE"
+    "Ability": "RUSH (Can attack units the turn it is played)"
   },
   "Sabre Tooth": {
     "Name": "Sabre Tooth",
@@ -85,7 +85,7 @@
     "Power": 2,
     "Health": 4,
     "Limit": 2,
-    "Ability": "GOLD 1 Target enemy unit; Move target unit into a free zone in the same column as this card"
+    "Ability": "GOLD 1 Target enemy unit; Move target unit into a free enemy zone in the same column as this card"
   },
   "Pistol Shrimp": {
     "Name": "Pistol Shrimp",
@@ -126,10 +126,10 @@
     "Type": "Ranged",
     "Class": "Pirate",
     "Cost": 1,
-    "Power": 1,
+    "Power": 2,
     "Health": 4,
     "Limit": 2,
-    "Ability": "Gain 3 power while there is a ship in support"
+    "Ability": "Gain 2 Power while there is a ship in support"
   },
   "Hardened Chef": {
     "Name": "Hardened Chef",
@@ -140,7 +140,7 @@
     "Power": 2,
     "Health": 4,
     "Limit": 2,
-    "Ability": "If there is a supporting 'Pirate' this unit gains 2 Health, If you control a 'Ship' instead all 'Pirate's gain 2 Health"
+    "Ability": "If there is a supporting 'Pirate' this unit gains 2 Health  \nIf you control a 'Ship' all 'Pirate's gain 1 Health"
   },
   "Crazy Samuel": {
     "Name": "Crazy Samuel",
@@ -162,7 +162,7 @@
     "Power": 3,
     "Health": 6,
     "Limit": 1,
-    "Ability": "PIERCING \nOn Deployment; deal 3 damage to up to X enemies where X is the sum of ships you control or are in your grave"
+    "Ability": "PIERCING \nOn Deployment; deal 3 damage to up to X+1 enemies where X is the sum of 'Ship's you control or are in your grave"
   },
   "Pirate Recruiter": {
     "Name": "Pirate Recruiter",
@@ -173,7 +173,7 @@
     "Power": 1,
     "Health": 3,
     "Limit": 2,
-    "Ability": "On deployment; INVESTIGATE Unit 2, you may add a 'Pirate' from the revealed cards and if you control a ship reduce its cost by 1"
+    "Ability": "On deployment; INVESTIGATE Unit 2, you may add a 'Pirate' from the revealed cards and if you control a 'Ship' reduce its cost by 1"
   },
   "First Mate": {
     "Name": "First Mate",
@@ -184,7 +184,7 @@
     "Power": 2,
     "Health": 4,
     "Limit": 2,
-    "Ability": "This unit's cost is reduced by 1 if you control a 'Pirate Leader' All 'Pirate' units gain 1 power if you control a ship"
+    "Ability": "This unit's cost is reduced by 1 if you control a 'Pirate Leader' All 'Pirate' units gain 1 power if you control a 'Ship'"
   },
   "Pirate Apprentice": {
     "Name": "Pirate Apprentice",
@@ -204,9 +204,9 @@
     "Class": "Legendary Undead King",
     "Cost": 3,
     "Power": 1,
-    "Health": 4,
+    "Health": 8,
     "Limit": 1,
-    "Ability": "On deploy; This unit gains Power and health equal to the number of units in both graveyards"
+    "Ability": "On deploy; This unit gains Power equal to the number of units in both graveyards"
   },
   "Rugged Skeleton": {
     "Name": "Rugged Skeleton",
@@ -228,7 +228,7 @@
     "Power": 2,
     "Health": 6,
     "Limit": 2,
-    "Ability": "When this unit is sent from field to grave; place up to 2 1G 2/1 Melee 'Undead' units in free zones."
+    "Ability": "When this unit is sent from field to grave; place up to 2 1G 2/1 Melee 'Undead' Tokens in free zones."
   },
   "Undead Queen": {
     "Name": "Undead Queen",
@@ -239,7 +239,7 @@
     "Power": 4,
     "Health": 6,
     "Limit": 2,
-    "Ability": "Other 'Undead' Units you control get +1/+1"
+    "Ability": "Other 'Undead' Units you control gain +1/+1"
   },
   "Soulless Pillager": {
     "Name": "Soulless Pillager",
@@ -270,9 +270,9 @@
     "Class": "Undead Special",
     "Cost": 2,
     "Power": 3,
-    "Health": 8,
+    "Health": 7,
     "Limit": 2,
-    "Ability": "GOLD 1 (0 if the opponent controls more units) When this unit is deployed; Sacrifice a unit, the opponent sacrifices a unit with lowest health (your choice if tied)"
+    "Ability": "KICK GOLD 1 (0 if the opponent controls more units) When this unit is deployed; Sacrifice a unit, the opponent sacrifices a unit with lowest health (your choice if tied)"
   },
   "Skeleton Archer": {
     "Name": "Skeleton Archer",
@@ -283,7 +283,7 @@
     "Power": 2,
     "Health": 3,
     "Limit": 2,
-    "Ability": "Before draw, if this card is in the graveyard and you have a unit hand; discard it and play this card"
+    "Ability": "During your turn, if this card is in the graveyard and you have a unit hand you can discard it;  Deploy this card"
   },
   "Runner": {
     "Name": "Runner",
@@ -294,7 +294,7 @@
     "Power": 2,
     "Health": 2,
     "Limit": 2,
-    "Ability": "HASTE \nIf this unit was deployed from the grave it gains +1 power"
+    "Ability": "RUSH \nIf this unit was deployed from the grave it gains +1 power and HASTE"
   },
   "Gravedigger": {
     "Name": "Gravedigger",
@@ -305,7 +305,7 @@
     "Power": 2,
     "Health": 4,
     "Limit": 2,
-    "Ability": "On deploy; INVESTIGATE unit 3, destroy a unit investigated, G1 Deploy that unit before destroying it"
+    "Ability": "On deploy; INVESTIGATE unit 3, destroy a unit investigated, KICK GOLD 1 Deploy that unit before destroying it"
   },
   "Cultist Mimic": {
     "Name": "Cultist Mimic",
@@ -314,7 +314,7 @@
     "Class": "Cultist",
     "Cost": 2,
     "Power": 2,
-    "Health": 4,
+    "Health": 3,
     "Limit": 2,
     "Ability": "When this unit is deployed; You may play a spell from your grave then exile it. If it is a 'Oath' spell you may play it for free."
   },
@@ -358,7 +358,7 @@
     "Class": "Cultist",
     "Cost": 2,
     "Power": 1,
-    "Health": 4,
+    "Health": 5,
     "Limit": 2,
     "Ability": "SLOW, 2PT, when you play an 'Oath' Spell; Gain 1 Gold"
   },
@@ -391,9 +391,9 @@
     "Class": "Cultist",
     "Cost": 1,
     "Power": 3,
-    "Health": 3,
+    "Health": 1,
     "Limit": 2,
-    "Ability": "When this card is sent from field to grave; The next spell you cast has cost -1, if its a 'Oath' Spell its free"
+    "Ability": "When this card is sent from field to grave; The next spell you cast has cost -1, if its a 'Oath' spell cost - 2"
   },
   "Cultist Thief": {
     "Name": "Cultist Thief",
@@ -402,9 +402,9 @@
     "Class": "Cultist Thief",
     "Cost": 1,
     "Power": 2,
-    "Health": 2,
+    "Health": 3,
     "Limit": 2,
-    "Ability": "HASTE\nIf this card deals face damage; You can look at your opponents spell hand, you may cast a spell from it as a 'Cultist' spell at cost -1 (min 1)"
+    "Ability": "RUSH\nIf this card deals face damage or defeats a unit; You can look at your opponents spell hand, you may cast a spell from it as a 'Cultist' spell at cost -1 (min 1)"
   },
   "Token Melee": {
     "Name": "Token Melee",
