@@ -1,0 +1,236 @@
+{
+  "Merciless Looting": {
+    "Name": "Merciless Looting",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "During end; Gain 1 gold for every enemy destroyed and 2 gold for every enemy defeated during this turn"
+  },
+  "Shipyard": {
+    "Name": "Shipyard",
+    "Group": 2,
+    "Type": "Permament",
+    "Class": "Pirate Ship",
+    "Cost": 2,
+    "Limit": 2,
+    "Ability": "All Allied ships gain 2 Health\n1PT INVESTIGATE Equip 3; Add a 'Ship'"
+  },
+  "Shipwreck": {
+    "Name": "Shipwreck",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Pirate",
+    "Cost": 5,
+    "Limit": 2,
+    "Ability": "Destroy all allied units (min 1); Deal instances of 2 damage per 'Ship' destroyed to all enemy units, or face if there are no enemy units, then deal instances of 1 damage for each other ally destroyed, then deploy a 'Ferry of The Damned' from your deck"
+  },
+  "Treasure Map": {
+    "Name": "Treasure Map",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Pirate",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "Target enemy zone in column with no allied units; During end mark that zone\nIf life is damaged through marked zone; Gain 3 gold"
+  },
+  "Hunting Season": {
+    "Name": "Hunting Season",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Animal Druid",
+    "Cost": 2,
+    "Limit": 2,
+    "Ability": "All allied 'Animals' gain HASTE and 1 Power + 1 additional Power for each 'Druid' unit you control"
+  },
+  "Animal Training": {
+    "Name": "Animal Training",
+    "Group": 2,
+    "Type": "Permament",
+    "Class": "Druid Animal",
+    "Cost": 2,
+    "Limit": 2,
+    "Ability": "If an 'Animal' and 'Druid' support each other; They both gain 1 Power and 1 Health\nSLOW, 1PT; INVESTIGATE unit 1; add 1 'Animal'"
+  },
+  "Calling Howl": {
+    "Name": "Calling Howl",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Animal Dog",
+    "Cost": 2,
+    "Limit": 2,
+    "Ability": "If you control a 'Dog', during your next income; Deploy 2 'Dog' units from your deck"
+  },
+  "Return of the Dead": {
+    "Name": "Return of the Dead",
+    "Group": 2,
+    "Type": "Permament",
+    "Class": "Undead",
+    "Cost": 2,
+    "Limit": 2,
+    "Ability": "1PT, target an 'Undead' unit in your graveyard and pay its cost + 1 (If at unit disadvantage, pay its cost); deploy it from your graveyard"
+  },
+  "Forced Entombment": {
+    "Name": "Forced Entombment",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Undead",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "SEARCH Unit; Send a unit to grave"
+  },
+  "Ghoulification": {
+    "Name": "Ghoulification",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Undead",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "Sacrifice a unit, target a unit in the grave, Cost is equal to grave unit cost - sacrificed unit cost; Deploy the unit from grave additionally as 'Undead'"
+  },
+  "Voodoo Ritual": {
+    "Name": "Voodoo Ritual",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Undead",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "Target enemy unit, target allied unit; deal an amount of damage equal to the allied units current health to both units"
+  },
+  "Oath to Being": {
+    "Name": "Oath to Being",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Oath",
+    "Cost": "X",
+    "Limit": 2,
+    "Ability": "Target unit in grave, the cost of this card is equal to the cost of the unit +1 (if the target is a 'Cultist' the cost is the cost of the unit); deploy it with +1 Power"
+  },
+  "Oath to Knowledge": {
+    "Name": "Oath to Knowledge",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Basic Oath",
+    "Cost": 1,
+    "Limit": 3,
+    "Ability": "This card has cost 0 if there are no Oath card in your grave \nSearch one 'Oath' spell (you can only cast 1 'Oath Of Mystery' per turn)"
+  },
+  "Oath to Mimicry": {
+    "Name": "Oath to Mimicry",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Oath",
+    "Cost": 2,
+    "Limit": 1,
+    "Ability": "Target one General 'Oath' spell in your graveyard; The ability of this card becomes the ability of the targeted card"
+  },
+  "Oath to Destruction": {
+    "Name": "Oath to Destruction",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Oath",
+    "Cost": 2,
+    "Limit": 2,
+    "Ability": "Target unit; deal PIERCING damage equal to half the number of 'Oath' spells (rounded up) in the grave +2"
+  },
+  "Oath to Banishment": {
+    "Name": "Oath to Banishment",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Oath",
+    "Cost": 3,
+    "Limit": 1,
+    "Ability": "Target unit, equip or permament; Place 'Oath' cards in the grave equal to its cost then destroy it"
+  },
+  "Oath to Strength": {
+    "Name": "Oath to Strength",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Oath",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "Target unit; it gains 2 power If that unit deals face damage gain 1 gold if there is at least 2 Oath cards in your grave and 2 gold if there are at least 4"
+  },
+  "Oath to Silence": {
+    "Name": "Oath to Silence",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Oath",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "Target unit; SILENCE it and any equipment attatched to it until the end of next turn"
+  },
+  "Disruption": {
+    "Name": "Disruption",
+    "Group": 2,
+    "Type": "Reaction",
+    "Class": "",
+    "Cost": "X",
+    "Limit": 2,
+    "Ability": "When a spell is cast, X = the casted spell's cost; Counter it"
+  },
+  "Piercing Arrow": {
+    "Name": "Piercing Arrow",
+    "Group": 2,
+    "Type": "General",
+    "Class": "",
+    "Cost": 2,
+    "Limit": 1,
+    "Ability": "Target column; Deal 4 damage to all enemy units in that column"
+  },
+  "Fireball": {
+    "Name": "Fireball",
+    "Group": 2,
+    "Type": "General",
+    "Class": "",
+    "Cost": 1,
+    "Limit": 1,
+    "Ability": "Target enemy; Deal 3 damage"
+  },
+  "Eruption": {
+    "Name": "Eruption",
+    "Group": 2,
+    "Type": "General",
+    "Class": "",
+    "Cost": 3,
+    "Limit": 1,
+    "Ability": "Destroy all units with 4 or less Health"
+  },
+  "Intervention": {
+    "Name": "Intervention",
+    "Group": 2,
+    "Type": "Reaction",
+    "Class": "",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "Cast when a unit would take damage; reduce that damage to 0"
+  },
+  "Angel's Judgment": {
+    "Name": "Angel's Judgment",
+    "Group": 2,
+    "Type": "General",
+    "Class": "",
+    "Cost": 3,
+    "Limit": 1,
+    "Ability": "Target enemy unit; Destroy it, KICK GOLD 1 Exile instead"
+  },
+  "Shatter": {
+    "Name": "Shatter",
+    "Group": 2,
+    "Type": "General",
+    "Class": "Arcane",
+    "Cost": 2,
+    "Limit": 1,
+    "Ability": "Target permament spell or an equipment; Destroy it"
+  },
+  "Magical Footwear": {
+    "Name": "Magical Footwear",
+    "Group": 2,
+    "Type": "General",
+    "Class": "",
+    "Cost": 1,
+    "Limit": 2,
+    "Ability": "Target unequipped unit: Equip a \"Boots\" equip from your deck to it"
+  }
+}
