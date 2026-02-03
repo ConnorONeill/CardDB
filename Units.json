@@ -101,13 +101,13 @@
   "Sea Captain": {
     "Name": "Sea Captain",
     "Group": 0,
-    "Type": "Ranged",
+    "Type": "Melee",
     "Class": "Pirate Leader",
     "Cost": 2,
     "Power": 0,
     "Health": 5,
     "Limit": 2,
-    "Ability": "Grants all 'Pirate' units you control RUSH\nThis unit gains power equal to your current gold"
+    "Ability": "RUSH\nThis unit gains power equal to your current gold"
   },
   "Navigator": {
     "Name": "Navigator",
@@ -118,18 +118,18 @@
     "Power": 2,
     "Health": 3,
     "Limit": 2,
-    "Ability": "While in support of a 'Ship' gains SCOUTING \nSupporting unit gains SCOUTING"
+    "Ability": "Supporting unit gains SCOUTING\nGOLD 1 (0 While you control a ship) 1PT: Move an ally into support"
   },
   "Cannoneer": {
     "Name": "Cannoneer",
     "Group": 0,
     "Type": "Ranged",
     "Class": "Pirate",
-    "Cost": 1,
+    "Cost": 2,
     "Power": 2,
     "Health": 4,
     "Limit": 2,
-    "Ability": "Gain 2 Power while there is a ship in support"
+    "Ability": "The first time in a turn an adjacent 'Pirate' attacks an enemy: Deal it damage equal to this units power"
   },
   "Hardened Chef": {
     "Name": "Hardened Chef",
@@ -151,18 +151,18 @@
     "Power": 1,
     "Health": 4,
     "Limit": 2,
-    "Ability": "This unit gains abilities based on the sum of the 'Pirate's and 'Ship's you control; 2 or more: Gain 1 power \n3 or more: Gain HASTE \n4 or more: Gain an additional attack"
+    "Ability": "This unit gains abilities based on the sum of the 'Pirate's and 'Ship's you control; Exactly 1: Gain 1 Armour, 2 or more: Gain 1 Power, 3 or more: Gain HASTE,4 or more: Gain an additional attack"
   },
   "Black Eye": {
     "Name": "Black Eye",
     "Group": 0,
     "Type": "Melee",
-    "Class": "Legendary Undead Pirate Leader",
+    "Class": "Undead Pirate Leader",
     "Cost": 3,
     "Power": 3,
     "Health": 6,
     "Limit": 1,
-    "Ability": "PIERCING \nOn Deployment; deal 3 damage to up to X+1 enemies where X is the sum of 'Ship's you control or are in your grave"
+    "Ability": "PIERCING \nOn Deployment; Deal 2 (3 if you control a ship) damage to up to X+1 enemies where X is the sum of 'Ship's you control or are in your grave"
   },
   "Pirate Recruiter": {
     "Name": "Pirate Recruiter",
@@ -178,13 +178,13 @@
   "First Mate": {
     "Name": "First Mate",
     "Group": 0,
-    "Type": "Melee",
+    "Type": "Ranged",
     "Class": "Pirate Leader",
     "Cost": 2,
     "Power": 2,
     "Health": 4,
     "Limit": 2,
-    "Ability": "This unit's cost is reduced by 1 if you control a 'Pirate Leader' All 'Pirate' units gain 1 power if you control a 'Ship'"
+    "Ability": "RUSH\nIf you control a 'Ship' or two or more 'Pirate's this units cost is reduced by 1\nWhile you control a 'Ship' all units you control gain RUSH and this unit and Support gains 1 power"
   },
   "Pirate Apprentice": {
     "Name": "Pirate Apprentice",
@@ -192,7 +192,7 @@
     "Type": "Melee",
     "Class": "Pirate",
     "Cost": 1,
-    "Power": 1,
+    "Power": 2,
     "Health": 4,
     "Limit": 2,
     "Ability": "Cost 0 while you control a 'Ship'\nWhen another pirate attacks; Gain 1 power until end"
@@ -349,7 +349,7 @@
     "Power": 3,
     "Health": 6,
     "Limit": 2,
-    "Ability": "When a spell is played; Gain 1 power until the end of the turn"
+    "Ability": "When a spell is played; Gain 1 'power' until the end of the turn\nIf this unit has at least 3 bonus power; it gains PIERCING"
   },
   "Cultist Treasurer": {
     "Name": "Cultist Treasurer",
