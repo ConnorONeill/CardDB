@@ -1,7 +1,7 @@
 {
   "Steel Teeth": {
-    "Img": "Steel Teeth",
     "Name": "Steel Teeth",
+    "Group": 1,
     "Class": "Animal",
     "Restriction": "'Dog', 'Cat', 'Dinosaur'",
     "Cost": 1,
@@ -15,8 +15,8 @@
     "Ability": "Grants PIERCING"
   },
   "Shearers": {
-    "Img": "Shearers",
     "Name": "Shearers",
+    "Group": 1,
     "Class": "Druid",
     "Restriction": "'Druid'",
     "Cost": 1,
@@ -30,8 +30,8 @@
     "Ability": "If an 'Animal' is in support; gain 1 gold income"
   },
   "Haste Boots": {
-    "Img": "Haste Boots",
     "Name": "Haste Boots",
+    "Group": 1,
     "Class": "Boots",
     "Restriction": "",
     "Cost": 1,
@@ -45,8 +45,8 @@
     "Ability": "Grants RUSH\nKICK GOLD 1 Grants HASTE"
   },
   "Mobility Boots": {
-    "Img": "Mobility Boots",
     "Name": "Mobility Boots",
+    "Group": 1,
     "Class": "Boots",
     "Restriction": "",
     "Cost": 1,
@@ -60,8 +60,8 @@
     "Ability": "Grants MOBILITY (Can move up to twice a turn, and after attacking, moving through columns still consumes attack)"
   },
   "Scouting Boots": {
-    "Img": "Scouting Boots",
     "Name": "Scouting Boots",
+    "Group": 1,
     "Class": "Boots",
     "Restriction": "",
     "Cost": 1,
@@ -75,8 +75,8 @@
     "Ability": "Grants SCOUTING (can move between columns and attack)"
   },
   "Poisoned Cloak": {
-    "Img": "Poisoned Cloak",
     "Name": "Poisoned Cloak",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -90,8 +90,8 @@
     "Ability": "The equipped unit takes 2 damage at the start of the host's turns. this damage increases by 1 per turn"
   },
   "Extender Stick": {
-    "Img": "Extender Stick",
     "Name": "Extender Stick",
+    "Group": 1,
     "Class": "",
     "Restriction": "Melee",
     "Cost": 1,
@@ -105,8 +105,8 @@
     "Ability": "Host becomes Ranged"
   },
   "Vampiric Blade": {
-    "Img": "Vampiric Blade",
     "Name": "Vampiric Blade",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -120,8 +120,8 @@
     "Ability": "Grants additional 1 Power while attacking units: when the host defeats a unit: heal hp up to the max hp of that unit"
   },
   "Titan Shield": {
-    "Img": "Titan Shield",
     "Name": "Titan Shield",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -135,8 +135,8 @@
     "Ability": "Grants 1 Armour to all adjacent units"
   },
   "Razor-Sharp Spear": {
-    "Img": "Razor-Sharp Spear",
     "Name": "Razor-Sharp Spear",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -150,8 +150,8 @@
     "Ability": "Grants PIERCING Grants +2 Power while attacking units"
   },
   "Organ Remover": {
-    "Img": "Organ Remover",
     "Name": "Organ Remover",
+    "Group": 1,
     "Class": "Undead",
     "Restriction": "",
     "Cost": 2,
@@ -165,8 +165,8 @@
     "Ability": "SLOW Sacrifice the equipped unit; if allied gain 4 gold"
   },
   "Unholy Sword": {
-    "Img": "Unholy Sword",
     "Name": "Unholy Sword",
+    "Group": 1,
     "Class": "Undead",
     "Restriction": "",
     "Cost": 1,
@@ -180,8 +180,8 @@
     "Ability": "Grants +1 power. If equipped unit was deployed from the graveyard, it grants +3 instead"
   },
   "Phantasm's Shroud": {
-    "Img": "Phantasm's Shroud",
     "Name": "Phantasm's Shroud",
+    "Group": 1,
     "Class": "Cloak",
     "Restriction": "",
     "Cost": 1,
@@ -195,8 +195,8 @@
     "Ability": "Grants SHROUD (Unaffected by first enemy ability that targets this card each turn)"
   },
   "Power Sap": {
-    "Img": "Power Sap",
     "Name": "Power Sap",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -210,8 +210,8 @@
     "Ability": "Grants -3 Power"
   },
   "War Suit": {
-    "Img": "War Suit",
     "Name": "War Suit",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 2,
@@ -225,23 +225,23 @@
     "Ability": "If Melee host grants 5 Health, if Ranged host grants 3 Health"
   },
   "Bookstand": {
-    "Img": "Bookstand",
     "Name": "Bookstand",
+    "Group": 1,
     "Class": "Cultist",
     "Restriction": "",
     "Cost": 2,
     "Stat 1": "Health",
-    "Val 1": 2,
-    "Stat 2": "",
-    "Val 2": "",
+    "Val 1": 3,
+    "Stat 2": "Power",
+    "Val 2": 1,
     "Stat 3": "",
     "Val 3": "",
     "Limit": 2,
     "Ability": "The cost of the first 'Oath' spell played in a turn is reduced by the cost of the equipped unit"
   },
   "Magic Sapping Glove": {
-    "Img": "Magic Sapping Glove",
     "Name": "Magic Sapping Glove",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,
@@ -255,8 +255,8 @@
     "Ability": "Grants 1 additional power for every allied spell played after equipping"
   },
   "Magic Sapping Cloak": {
-    "Img": "Magic Sapping Cloak",
     "Name": "Magic Sapping Cloak",
+    "Group": 1,
     "Class": "",
     "Restriction": "",
     "Cost": 1,

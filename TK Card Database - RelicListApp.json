@@ -5,9 +5,9 @@
     "Cost": 5,
     "Class": "Ship",
     "Type": 1,
-    "Health": 6,
+    "Health": 7,
     "Limit": 2,
-    "Ability": "Pirate' COST AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\nAllied 'Pirate's gain 1 Health\n1PT: Steal or gain 1 gold"
+    "Ability": "WARD, Before deploy optionally shuffle 'Pirate's into deck, reduce cost by the total cost shuffled\nAllied 'Pirate's gain 1 Health\n1PT: Steal or gain 1 gold"
   },
   "Brigantine": {
     "Name": "Brigantine",
@@ -15,29 +15,29 @@
     "Cost": 5,
     "Class": "Ship",
     "Type": 1,
-    "Health": 6,
+    "Health": 7,
     "Limit": 2,
-    "Ability": "Pirate' COST AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n1PT, INVESTIGATE Unit 1; Add 1 'Pirate'\nAllied 'Pirate's cost in hand is reduced by 1 (Min 1)"
+    "Ability": "WARD, Before deploy optionally shuffle 'Pirate's into deck, reduce cost by the total cost shuffled\n1PT, INVESTIGATE Unit 1; Add 1 'Pirate'\nAllied 'Pirate's cost in hand is reduced by 1 (Min 1)"
   },
   "Frigate": {
     "Name": "Frigate",
     "Group": 3,
-    "Cost": 6,
+    "Cost": 5,
     "Class": "Ship",
     "Type": 1,
     "Health": 7,
     "Limit": 2,
-    "Ability": "Pirate' COST AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n1PT, Target Unit; Silence it\nAllied 'Pirate's and 'Ship's gain 2 DR"
+    "Ability": "WARD, Before deploy optionally shuffle 'Pirate's into deck, reduce cost by the total cost shuffled\n1PT, Target Unit; Reduce its power by 2 and SILENCE it until next end\nAllied 'Pirate's and 'Ship's gain 1 Armour"
   },
   "Galleon": {
     "Name": "Galleon",
     "Group": 3,
-    "Cost": 7,
+    "Cost": 6,
     "Class": "Ship",
     "Type": 1,
     "Health": 8,
     "Limit": 2,
-    "Ability": "Pirate' COST AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\nAllied 'Pirate' abilities deal 1 extra damage\n1PT, Target Enemy: Deal it 3 Damage"
+    "Ability": "WARD, Before deploy optionally shuffle 'Pirate's into deck, reduce cost by the total cost shuffled\nAllied abilities deal +1 damage\n1PT, Target Enemy: Deal it 2 Damage"
   },
   "Man O' War": {
     "Name": "Man O' War",
@@ -45,9 +45,9 @@
     "Cost": 7,
     "Class": "Ship",
     "Type": 1,
-    "Health": 8,
+    "Health": 9,
     "Limit": 2,
-    "Ability": "Pirate' COST AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\n'Pirate's gain 1 Power\n1PT, Target 'Pirate': It gains RUSH and an additional Attack"
+    "Ability": "WARD, Before deploy optionally shuffle 'Pirate's into deck, reduce cost by the total cost shuffled\n'Pirate's gain 1 Power\n1PT, Target 'Pirate': It gains RUSH and an additional Attack"
   },
   "Ferry of the Damned": {
     "Name": "Ferry of the Damned",
@@ -57,6 +57,6 @@
     "Type": 1,
     "Health": 7,
     "Limit": 2,
-    "Ability": "Pirate' COST AFFINITY, Before deploy shuffle all allied 'Pirate's into the deck\nAllied 'Undead' units gain 1 Power\n1PT Deploy a 'Pirate' from grave additionally as 'Undead'"
+    "Ability": "WARD, Before deploy optionally shuffle 'Pirate's into deck, reduce cost by the total cost shuffled\nAllied 'Undead' units gain 1 Power\n1PT Deploy a 'Pirate' from grave additionally as 'Undead'"
   }
 }

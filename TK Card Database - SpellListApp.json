@@ -15,16 +15,16 @@
     "Class": "Pirate Ship",
     "Cost": 2,
     "Limit": 2,
-    "Ability": "All Allied ships gain 2 Health\n1PT INVESTIGATE Equip 3; Add a 'Ship'"
+    "Ability": "All Allied ships gain 3 Health\n1PT INVESTIGATE Equip 3; Add a 'Ship'"
   },
   "Shipwreck": {
     "Name": "Shipwreck",
     "Group": 2,
     "Type": "General",
     "Class": "Pirate",
-    "Cost": 5,
+    "Cost": 3,
     "Limit": 2,
-    "Ability": "Destroy all allied units (min 1); Deal instances of 2 damage per 'Ship' destroyed to all enemy units, or face if there are no enemy units, then deal instances of 1 damage for each other ally destroyed, then deploy a 'Ferry of The Damned' from your deck"
+    "Ability": "Destroy all allied units (min 2); Deal instances of 2 damage per 'Ship' destroyed to all enemy units, or face if there are no enemy units, then deal instances of 1 damage for each other ally destroyed, then deploy a 'Ferry of The Damned' from your deck"
   },
   "Treasure Map": {
     "Name": "Treasure Map",
@@ -114,7 +114,7 @@
     "Class": "Basic Oath",
     "Cost": 1,
     "Limit": 3,
-    "Ability": "This card has cost 0 if there are no Oath card in your grave \nSearch one 'Oath' spell (you can only cast 1 'Oath Of Mystery' per turn)"
+    "Ability": "This card has cost 0 if there are no Oath card in your grave \nSearch one 'Oath' spell (you can only cast 1 'Oath to Knowledge' per turn)"
   },
   "Oath to Mimicry": {
     "Name": "Oath to Mimicry",
@@ -132,7 +132,7 @@
     "Class": "Oath",
     "Cost": 2,
     "Limit": 2,
-    "Ability": "Target unit; deal PIERCING damage equal to half the number of 'Oath' spells (rounded up) in the grave +2"
+    "Ability": "Target unit; deal PIERCING damage equal to the number of 'Oath' spells in the grave +1"
   },
   "Oath to Banishment": {
     "Name": "Oath to Banishment",
@@ -150,7 +150,7 @@
     "Class": "Oath",
     "Cost": 1,
     "Limit": 2,
-    "Ability": "Target unit; it gains 2 power If that unit deals face damage gain 1 gold if there is at least 2 Oath cards in your grave and 2 gold if there are at least 4"
+    "Ability": "Target unit; it gains 2 power and 'If this unit deals face damage gain 1 gold equal to half the 'Oath' cards in grave (round down)' until end"
   },
   "Oath to Silence": {
     "Name": "Oath to Silence",
